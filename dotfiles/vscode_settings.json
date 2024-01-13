@@ -1,0 +1,26 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.analysis.typeCheckingMode": "off",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Gruvbox Dark Hard",
+    "workbench.preferredLightColorTheme": "Gruvbox Light Medium",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontSize": 16,
+    "editor.tabSize": 4,
+    "editor.autoClosingQuotes": "beforeWhitespace",
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "files.associations": {
+        "*.sage": "python"
+    },
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on"
+}
