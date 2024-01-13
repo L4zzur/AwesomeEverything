@@ -2,4 +2,4 @@
 В данном репозитории я сохраняю или публикую интересные и полезные (на мой взгляд) материалы посвященные программированию на Python и другим штукам. Если у вас есть чем поделиться - не стесняйтесь добавлять это в багтрекер, либо же делать пулреквесты!
 
 # Python
-[Типизированный Python](https://to.digital/typed-python/) ([книжка](https://t.me/t0digital/151), [видео](https://www.youtube.com/watch?v=dKxiHlZvULQ)
+[Типизированный Python](https://to.digital/typed-python/) ([книжка](https://t.me/t0digital/151), [видео](https://www.youtube.com/watch?v=dKxiHlZvULQ))
