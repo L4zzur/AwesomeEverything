@@ -5,9 +5,11 @@
 1. [Python](#python)
     1. [Aiogram](#aiogram)
     2. [Учебники и курсы](#python-learn)
-2. [Шпаргалки](#spreadsheets)
-3. [Криптография](#cryptography)
-4. [Онлайн инструменты](#tools)  
+2. [Базы данных](#databases)
+    1. [MongoDB](#mongodb)
+3. [Шпаргалки](#spreadsheets)
+4. [Криптография](#cryptography)
+5. [Онлайн инструменты](#tools)  
 
 
 # Python <a name="python"></a>
@@ -25,6 +27,10 @@
 [Бесплатный курс Python, самостоятельное обучение программированию с нуля](https://code-basics.com/ru/languages/python)
 [Интерактивный учебник](https://pythontutor.ru/)  
 [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)  
+
+# Базы данных <a name="databases"></a>
+## MongoDB <a name="mongodb"></a>
+[Создание резервных копий, восстановление и миграция базы данных MongoDB в Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-back-up-restore-and-migrate-a-mongodb-database-on-ubuntu-20-04-ru)
 
 
 # Криптография <a name="cryptography"></a>
