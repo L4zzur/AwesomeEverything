@@ -24,7 +24,7 @@
 
 ## Учебники и курсы <a name="python-learn"></a>
 [Интерактивный учебник](https://pythontutor.ru/)  
-[Бесплатный курс Python, самостоятельное обучение программированию с нуля](https://code-basics.com/ru/languages/python)
+[Бесплатный курс Python, самостоятельное обучение программированию с нуля](https://code-basics.com/ru/languages/python)    
 [Интерактивный учебник](https://pythontutor.ru/)  
 [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)  
 
