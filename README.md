@@ -18,6 +18,8 @@
 [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)    
 [Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/companies/wunderfund/articles/678634/)
 
+[Прототип Minecraft на языке Python и движке Ursina](https://github.com/L4zzur/minecraft-on-ursina)
+
 ## Aiogram <a name="aiogram"></a>
 [Пишем Telegram-ботов с aiogram 3.x](https://mastergroosha.github.io/aiogram-3-guide/)  
 [fluentogram: механизм локализации для aiogram](https://github.com/Arustinal/fluentogram)  
