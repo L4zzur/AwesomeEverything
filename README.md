@@ -2,15 +2,19 @@
 В данном репозитории я сохраняю или публикую интересные и полезные (на мой взгляд) материалы посвященные программированию на Python и другим штукам. Если у вас есть чем поделиться - не стесняйтесь добавлять это в багтрекер, либо же делать пулреквесты!
 
 ## Содержание
-1. [Python](#python)
-    1. [Aiogram](#aiogram)
-    2. [Учебники и курсы](#python-learn)
-2. [Базы данных](#databases)
-    1. [MongoDB](#mongodb)
-3. [Шпаргалки](#spreadsheets)
-4. [Криптография](#cryptography)
-5. [Онлайн инструменты](#tools)  
-6. [Android](#android)
+- [AwesomeProgramming](#awesomeprogramming)
+  - [Содержание](#содержание)
+- [Python ](#python-)
+  - [Aiogram ](#aiogram-)
+  - [Учебники и курсы ](#учебники-и-курсы-)
+- [C/C++](#cc)
+- [Базы данных ](#базы-данных-)
+  - [MongoDB ](#mongodb-)
+- [Криптография ](#криптография-)
+- [Шпаргалки ](#шпаргалки-)
+- [Онлайн инструменты ](#онлайн-инструменты-)
+- [Android ](#android-)
+- [Бессмысленное, но забавное ](#бессмысленное-но-забавное-)
 
 # Python <a name="python"></a>
 [Типизированный Python](https://to.digital/typed-python/) ([книжка](https://t.me/t0digital/151), [видео](https://www.youtube.com/watch?v=dKxiHlZvULQ))  
@@ -29,6 +33,10 @@
 [Бесплатный курс Python, самостоятельное обучение программированию с нуля](https://code-basics.com/ru/languages/python)    
 [Интерактивный учебник](https://pythontutor.ru/)  
 [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/index.html)  
+
+# C/C++
+
+[Настройка MinGW + VSCode](https://programel.ru/articles/mingw-visual-studio-code-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0/)
 
 # Базы данных <a name="databases"></a>
 ## MongoDB <a name="mongodb"></a>
