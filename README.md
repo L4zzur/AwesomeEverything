@@ -4,15 +4,14 @@
 ## Содержание
 - [Python](#python)
   - [Aiogram](#aiogram)
-  - [Учебники и курсы](#учебники-и-курсы)
+  - [Учебники и курсы](#python-learn)
 - [C/C++](#cpp)
-- [Базы данных](#базы-данных)
+- [Базы данных](#databases)
   - [MongoDB](#mongodb)
-- [Криптография](#криптография)
-- [Шпаргалки](#шпаргалки)
-- [Онлайн инструменты](#онлайн-инструменты)
+- [Криптография](#cryptography)
+- [Шпаргалки](#spreadsheets)
+- [Онлайн инструменты](#online-tools)
 - [Android](#android)
-- [Бессмысленное, но забавное](#бессмысленное-но-забавное)
 
 # Python <a name="python"></a>
 [Типизированный Python](https://to.digital/typed-python/) ([книжка](https://t.me/t0digital/151), [видео](https://www.youtube.com/watch?v=dKxiHlZvULQ))  
@@ -48,7 +47,7 @@
 [Шпаргалка LaTeX](https://wch.github.io/latexsheet/latexsheet.pdf)  
 [Список символов LaTeX](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)  
 
-# Онлайн инструменты <a name="tools"></a>
+# Онлайн инструменты <a name="online-tools"></a>
 [Распознавание символов LaTeX](https://detexify.kirelabs.org/classify.html)  
 
 # Android <a name="android"></a>
