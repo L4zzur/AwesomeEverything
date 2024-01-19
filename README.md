@@ -24,6 +24,7 @@
 ## Aiogram <a name="aiogram"></a>
 [Пишем Telegram-ботов с aiogram 3.x](https://mastergroosha.github.io/aiogram-3-guide/)  
 [fluentogram: механизм локализации для aiogram](https://github.com/Arustinal/fluentogram)  
+[Docker Telegram Bot API image](https://hub.docker.com/r/aiogram/telegram-bot-api)    
 
 ## Учебники и курсы <a name="python-learn"></a>
 [Интерактивный учебник](https://pythontutor.ru/)  
