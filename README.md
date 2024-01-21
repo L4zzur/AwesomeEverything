@@ -17,8 +17,8 @@
 [Типизированный Python](https://to.digital/typed-python/) ([книжка](https://t.me/t0digital/151), [видео](https://www.youtube.com/watch?v=dKxiHlZvULQ))  
 [Шпаргалка по Poetry](https://habr.com/ru/articles/593529/)  
 [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)    
-[Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/companies/wunderfund/articles/678634/)
-[Принципы проектирования SOLID на Python](https://habr.com/ru/companies/otus/articles/651753/)
+[Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/companies/wunderfund/articles/678634/)    
+[Принципы проектирования SOLID на Python](https://habr.com/ru/companies/otus/articles/651753/)    
 
 [Прототип Minecraft на языке Python и движке Ursina](https://github.com/L4zzur/minecraft-on-ursina)
 
