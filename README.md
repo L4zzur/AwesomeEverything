@@ -58,6 +58,7 @@
 
 # Git
 Фикс ошибки `git gpg failed to sign the data` при использовании WSL2: [GitHub](https://gist.github.com/paolocarrasco/18ca8fe6e63490ae1be23e84a7039374?permalink_comment_id=4495766#gistcomment-4495766)
+[Настройка GPG ключей](https://baskovsky.ru/2021/08/github-gpg-key/)
 
 # Базы данных
 ## MongoDB
