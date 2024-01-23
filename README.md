@@ -57,7 +57,7 @@
 [Настройка MinGW + VSCode](https://programel.ru/articles/mingw-visual-studio-code-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0/)
 
 # Git
-Фикс ошибки `git gpg failed to sign the data` при использовании WSL2: [GitHub](https://gist.github.com/paolocarrasco/18ca8fe6e63490ae1be23e84a7039374?permalink_comment_id=4495766#gistcomment-4495766)
+Фикс ошибки `git gpg failed to sign the data` при использовании WSL2: [GitHub](https://gist.github.com/paolocarrasco/18ca8fe6e63490ae1be23e84a7039374?permalink_comment_id=4495766#gistcomment-4495766)   
 [Настройка GPG ключей](https://baskovsky.ru/2021/08/github-gpg-key/)
 
 # Базы данных
