@@ -13,6 +13,7 @@
   - [Учебники и курсы](#учебники-и-курсы)
   - [Проекты](#проекты)
 - [C/C++](#cc)
+- [Git](#git)
 - [Базы данных](#базы-данных)
   - [MongoDB](#mongodb)
 - [Криптография](#криптография)
@@ -38,8 +39,6 @@
 [Введение в ASGI: становление асинхронной веб-экосистемы Python](https://habr.com/ru/articles/482936/)  
 [FastAPI: официальный учебник [RU]](https://fastapi.tiangolo.com/ru/learn/)
 
-
-
 ## Aiogram
 [Пишем Telegram-ботов с aiogram 3.x](https://mastergroosha.github.io/aiogram-3-guide/)  
 [fluentogram: механизм локализации для aiogram](https://github.com/Arustinal/fluentogram)  
@@ -56,6 +55,9 @@
 
 # C/C++
 [Настройка MinGW + VSCode](https://programel.ru/articles/mingw-visual-studio-code-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0/)
+
+# Git
+Фикс ошибки `git gpg failed to sign the data` при использовании WSL2: [GitHub](https://gist.github.com/paolocarrasco/18ca8fe6e63490ae1be23e84a7039374?permalink_comment_id=4495766#gistcomment-4495766)
 
 # Базы данных
 ## MongoDB
