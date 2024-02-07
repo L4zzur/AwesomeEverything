@@ -26,5 +26,5 @@ gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffe
 В качестве shell оболочки я использую [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) (дефолтный в Manjaro Gnome) и [oh-my-zsh](https://ohmyz.sh/) с темой [powerlevel10k](https://github.com/romkatv/powerlevel10k) с плагинами [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) и [autoswitch_virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv).
 
 ## Terminal
-В качестве терминала я использую kitty с небольшим (пока что) конфигом и темой [Gruvbox](https://github.com/wdomitrz/kitty_gruvbox_theme).
+В качестве терминала я использую kitty с небольшим (пока что) [конфигом](https://github.com/L4zzur/AwesomeProgramming/blob/main/dotfiles/kitty/kitty.conf) и темой [Gruvbox](https://github.com/wdomitrz/kitty_gruvbox_theme).
 
