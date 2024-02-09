@@ -28,3 +28,5 @@ gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffe
 ## Terminal
 В качестве терминала я использую kitty с небольшим (пока что) [конфигом](https://github.com/L4zzur/AwesomeProgramming/blob/main/dotfiles/kitty/kitty.conf) и темой [Gruvbox](https://github.com/wdomitrz/kitty_gruvbox_theme).
 
+## Жесты
+Поскольку стандартный вариант жестов меня не устраивает и я больше привык к жестам из Windows, использую пакет [gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements/), но т.к. он до сих пор не был портирован на Gnome 45, используем [исправленную версию](https://github.com/harshadgavali/gnome-gesture-improvements/issues/206#issuecomment-1782750156)
