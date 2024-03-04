@@ -34,6 +34,7 @@
 ## Проектирование
 - [Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/companies/wunderfund/articles/678634/)
 - [Принципы проектирования SOLID на Python](https://habr.com/ru/companies/otus/articles/651753/)
+- [Примеры паттернов проектирования на Python](https://refactoring.guru/ru/design-patterns/python)
 
 ## Web
 - [Введение в ASGI: становление асинхронной веб-экосистемы Python](https://habr.com/ru/articles/482936/)
