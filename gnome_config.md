@@ -1,7 +1,13 @@
 # Моя личная настройка GNOME (Wayland)
 
 ## Список расширений
-
+[App Icons Taskbar](https://extensions.gnome.org/extension/4944/app-icons-taskbar/)
+[Clipboard History](https://extensions.gnome.org/extension/4839/clipboard-history/)
+[Status Area Horizontal Spacing](https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/)
+[ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
+[AppIndicator](https://extensions.gnome.org/extension/615/appindicator-support/)
+[Top Bar Organizer](https://extensions.gnome.org/extension/4356/top-bar-organizer/)
+[Search Light](https://extensions.gnome.org/extension/5489/search-light/)
 
 ## Смена раскладки на Alt+Shift/Shift+Alt
 Можно настроить с использованием `gsettings` (утилиту настройки командной строки).
