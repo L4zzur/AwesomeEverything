@@ -1,5 +1,26 @@
 # Моя личная настройка GNOME (Wayland)
 
+## Список расширений
+
+
+## Смена раскладки на Alt+Shift/Shift+Alt
+Можно настроить с использованием `gsettings` (утилиту настройки командной строки).
+1. Установить переключатель вперед на Shift + Alt (левый)
+```
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Shift>Alt_L']"
+```
+
+2. Установить обратное переключение на Alt + Shift (левый)
+```
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Alt>Shift_L']"
+```
+
+Чтобы увидеть текущее значение настройки, используйте команду *get*:
+```
+gsettings get org.gnome.desktop.wm.keybindings switch-input-source
+gsettings get org.gnome.desktop.wm.keybindings switch-input-source-backward
+```
+
 ## Настройка дробного масштабирования
 Данная функция актуальна для экранов с высоким разрешением (проблема HiDPI). Подробнее здесь: [Arch Linux Wiki](https://wiki.archlinux.org/title/HiDPI)
 Для включения возможности дробного масштабирования (промежутные значения, 125%, 150% и т.д. вместо стандартных 100% и 200%):
