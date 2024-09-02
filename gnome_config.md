@@ -35,6 +35,7 @@ gsettings get org.gnome.desktop.wm.keybindings switch-input-source-backward
 
 ## Настройка дробного масштабирования
 Данная функция актуальна для экранов с высоким разрешением (проблема HiDPI). Подробнее здесь: [Arch Linux Wiki](https://wiki.archlinux.org/title/HiDPI)
+
 Для включения возможности дробного масштабирования (промежутные значения, 125%, 150% и т.д. вместо стандартных 100% и 200%):
 ```bash
 gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
