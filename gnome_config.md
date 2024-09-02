@@ -27,7 +27,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Shift>Alt
 gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Alt>Shift_L']"
 ```
 
-Чтобы увидеть текущее значение настройки, используйте команду *get*:
+Чтобы увидеть текущее значение настройки, используйте команду `get`:
 ```
 gsettings get org.gnome.desktop.wm.keybindings switch-input-source
 gsettings get org.gnome.desktop.wm.keybindings switch-input-source-backward
