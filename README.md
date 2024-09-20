@@ -4,6 +4,7 @@
 ## Содержание
 - [AwesomeProgramming](#awesomeprogramming)
   - [Содержание](#содержание)
+- [Dotfiles и настройка Linux](#dotfiles-и-настройка-linux)
 - [Ведение заметок и базы знаний](#ведение-заметок-и-базы-знаний)
   - [Obsidian](#obsidian)
 - [Python](#python)
@@ -29,6 +30,14 @@
 - [C/C++](#cc)
 - [Бессмысленное, но забавное](#бессмысленное-но-забавное)
 
+
+# Dotfiles и настройка Linux
+- [Моя личная настройка GNOME (Wayland)](https://github.com/L4zzur/AwesomeProgramming/blob/main/gnome_config.md)
+- [Различные обои](https://github.com/L4zzur/AwesomeProgramming/tree/main/wallpapers)
+- [Конфиг и тема для kitty](https://github.com/L4zzur/AwesomeProgramming/tree/main/dotfiles/kitty)
+- [Настройка для VSCode](https://github.com/L4zzur/AwesomeProgramming/blob/main/dotfiles/vscode_settings.json)
+- [Настройка для zsh](https://github.com/L4zzur/AwesomeProgramming/blob/main/dotfiles/.zshrc)
+- [Настройка темы для Vencord](https://github.com/L4zzur/AwesomeProgramming/blob/main/dotfiles/quickCss.css)
 
 # Ведение заметок и базы знаний
 
